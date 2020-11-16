@@ -10,7 +10,7 @@ Asks the user for the following inputs:
 1. Month and Year of the payroll (error massage handled in case of incorrect input format)
 2. The hours each employee worked during the month
 3. Give a brief summary in the console, so that the user can have a first overview of the final payroll
-4. Once the user input worked hours for each employee, a separate payslip (.txt file) for each employee is generated in the bin folder.
+4. Once the user has input worked hours for each employee, a separate payslip (.txt file) for each employee is generated in the bin folder.
 
 The program in detail:
 
