@@ -2,7 +2,7 @@
 
 Description:
 
-This simple program allows the user to generate automatically the payroll of each employee. The user first provides a text file containing the name and the position in the company of each employee. Then the program will tell the user to input the work time for each employee, so that the calculation of the due salary can be made based on hourly rates that are different depending on the position of the employees. Overtime, admin rate, and special allowance for managers, are taken into account in the calculation of the salary. Employees who worked less than 10 hours in the month also appear on a separate file.
+This simple program allows the user to generate automatically the payroll of each employee. The user first provides a text file containing the name and the position in the company of each employee. Then the program will tell the user to input the work time for each employee, so that the calculation of the due salary can be made based on hourly rates that are different depending on the position of the employees. Overtimes, admin rates, and special allowances for managers, are taken into account in the calculation of the salary. Employees who worked less than 10 hours in the month also appear on a separate file.
 
 How it works:
 
