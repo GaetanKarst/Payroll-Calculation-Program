@@ -1,0 +1,6 @@
+﻿Gaetan, Manager
+Chenyu, Manager
+Julio, Manager
+John, Admin
+Marrion, Admin
+Akita, Admin

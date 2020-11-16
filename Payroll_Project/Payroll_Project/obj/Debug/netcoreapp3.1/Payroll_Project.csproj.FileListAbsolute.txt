@@ -1,0 +1,13 @@
+D:\Users\tares\Documents\Development_classes\CSharp_repo\Payroll_Project\Payroll_Project\obj\Debug\netcoreapp3.1\Payroll_Project.csprojAssemblyReference.cache
+D:\Users\tares\Documents\Development_classes\CSharp_repo\Payroll_Project\Payroll_Project\obj\Debug\netcoreapp3.1\Payroll_Project.AssemblyInfoInputs.cache
+D:\Users\tares\Documents\Development_classes\CSharp_repo\Payroll_Project\Payroll_Project\obj\Debug\netcoreapp3.1\Payroll_Project.AssemblyInfo.cs
+D:\Users\tares\Documents\Development_classes\CSharp_repo\Payroll_Project\Payroll_Project\obj\Debug\netcoreapp3.1\Payroll_Project.csproj.CoreCompileInputs.cache
+D:\Users\tares\Documents\Development_classes\CSharp_repo\Payroll_Project\Payroll_Project\bin\Debug\netcoreapp3.1\Payroll_Project.exe
+D:\Users\tares\Documents\Development_classes\CSharp_repo\Payroll_Project\Payroll_Project\bin\Debug\netcoreapp3.1\Payroll_Project.deps.json
+D:\Users\tares\Documents\Development_classes\CSharp_repo\Payroll_Project\Payroll_Project\bin\Debug\netcoreapp3.1\Payroll_Project.runtimeconfig.json
+D:\Users\tares\Documents\Development_classes\CSharp_repo\Payroll_Project\Payroll_Project\bin\Debug\netcoreapp3.1\Payroll_Project.runtimeconfig.dev.json
+D:\Users\tares\Documents\Development_classes\CSharp_repo\Payroll_Project\Payroll_Project\bin\Debug\netcoreapp3.1\Payroll_Project.dll
+D:\Users\tares\Documents\Development_classes\CSharp_repo\Payroll_Project\Payroll_Project\bin\Debug\netcoreapp3.1\Payroll_Project.pdb
+D:\Users\tares\Documents\Development_classes\CSharp_repo\Payroll_Project\Payroll_Project\obj\Debug\netcoreapp3.1\Payroll_Project.dll
+D:\Users\tares\Documents\Development_classes\CSharp_repo\Payroll_Project\Payroll_Project\obj\Debug\netcoreapp3.1\Payroll_Project.pdb
+D:\Users\tares\Documents\Development_classes\CSharp_repo\Payroll_Project\Payroll_Project\obj\Debug\netcoreapp3.1\Payroll_Project.genruntimeconfig.cache
