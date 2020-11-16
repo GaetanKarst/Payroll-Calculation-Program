@@ -14,6 +14,6 @@ Asks the user for the following inputs:
 
 The program in detail:
 
-- Features a staff class on which inherits the Manager and the Admin class.
-- A FileReader class that as indicated by the name, will take care of the main file streams.
+- Features a Staff class on which inherits the Manager and the Admin classes.
+- A FileReader class that, as indicated in the name, will take care of the main files streams.
 - A PaySlip class that will handle the payslip's layout, the generation of the payslips in separate text files, and the generation of the summary.
