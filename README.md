@@ -17,3 +17,9 @@ The program in detail:
 - Features a Staff class on which inherits the Manager and the Admin classes.
 - A FileReader class that, as indicated in the name, will take care of the main files streams.
 - A PaySlip class that will handle the payslip's layout, the generation of the payslips in separate text files, and the generation of the summary.
+
+![payroll](https://user-images.githubusercontent.com/66731438/99524595-fe8a8680-29db-11eb-8f0d-0bc38f5b6746.PNG)
+Console overview
+
+![Payroll_2](https://user-images.githubusercontent.com/66731438/99524647-12ce8380-29dc-11eb-95e2-396e252e7f17.PNG)
+Generated Payslip
